@@ -1,7 +1,22 @@
 {
     "combinations": {
         "people": [
-            "Larry"
+            "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", // just to be sure
+            "ocelotpotpie",
+            "Luck",
+            "kashike",
+            "Rían",
+            "mbaxter",
+            "Turbotailz",
+            "mmolitor87",
+            "ocelot",
+            "Disconsented",
+            "Vicarious",
+            "_11",
+            "electronicboy",
+            "Spottedleaf",
+            "Michael",
+            "zml"
         ],
         "sites": [
             "Syscraft"
@@ -116,6 +131,9 @@
             "$350",
             "$400",
             "$450",
+            "6 goats",
+            "294 goats",
+            "9 swine",
             "$500",
             "$600",
             "$1,000,000",
@@ -304,6 +322,7 @@
     ],
 
     "social": [
-        "Trending on r/syscraft !!!"
+        "Trending on r/syscraft !!!",
+        "This just in with Larry!"
     ]
 }
